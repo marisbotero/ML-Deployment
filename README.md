@@ -1,2 +1,2 @@
-# ML-Deployment
+# 😎ML-Deployment
 ML deployment with Docker and FastAPI
